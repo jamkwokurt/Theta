@@ -1,4 +1,4 @@
-# Theta
+# Theta Tech Interview
 
 A web application written in HTML and JavaScript to load a text file containing weather data. 
 
