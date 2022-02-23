@@ -1,0 +1,20 @@
+body {
+    background-image: url(bg.jpeg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#output {
+    min-height: 720px;
+}
+
+#dayNumber {
+    background-color: white;
+}
+
+#navContainer {
+    text-align: center;
+}
